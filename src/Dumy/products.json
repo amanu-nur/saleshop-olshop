@@ -1,0 +1,83 @@
+{
+    "flash_sale": [
+    {
+        "_id": "asd1293uasdads9",
+        "imageUrl": "img/products/women-1.jpg",
+        "discount": "120.000",
+        "price": "90.000",
+        "name": "Mickey Baggy"
+    },
+    {
+        "_id": "asd1293uasdads10",
+        "imageUrl": "img/products/women-2.jpg",
+        "discount": "150.000",
+        "price": "90.000",
+        "name": "Guangzhou "
+    }, {
+        "_id": "asd1293uasdads11",
+        "imageUrl": "img/products/women-3.jpg",
+        "discount": "130.000",
+        "price": "90.000",
+        "name": "Converse Shoes"
+    },
+    {
+        "_id": "asd1293uasdads12",
+        "imageUrl": "img/products/women-4.jpg",
+        "discount": "120.000",
+        "price": "90.000",
+        "name": "Pure Pineapple"
+    }
+],
+"big_sale": [
+    {
+        "_id": "asd1293uasdads9",
+        "imageUrl": "img/products/product-1.jpg",
+        "discount": "120.000",
+        "price": "90.000",
+        "name": "Mickey Baggy"
+    },
+    {
+        "_id": "asd1293uasdads10",
+        "imageUrl": "img/products/product-5.jpg",
+        "discount": "150.000",
+        "price": "90.000",
+        "name": "Guangzhou "
+    }, {
+        "_id": "asd1293uasdads11",
+        "imageUrl": "img/products/product-3.jpg",
+        "discount": "130.000",
+        "price": "90.000",
+        "name": "Converse Shoes"
+    },
+    {
+        "_id": "asd1293uasdads12",
+        "imageUrl": "img/products/product-7.jpg",
+        "discount": "120.000",
+        "price": "90.000",
+        "name": "Pure Pineapple"
+    }
+],
+
+"partner":[
+    {
+        "_id": "asd1293uasdads911",
+        "imageUrl": "img/Partner/logo-1.png"
+    },
+    {
+        "_id": "asd1293uasdads9111",
+        "imageUrl": "img/Partner/logo-2.png"
+    },
+    {
+        "_id": "asd1293uasdads9112",
+        "imageUrl": "img/Partner/logo-3.png"
+    },
+    {
+        "_id": "asd1293uasdads9141",
+        "imageUrl": "img/Partner/logo-4.png"
+    },
+    {
+        "_id": "asd1293uasdads9161",
+        "imageUrl": "img/Partner/logo-5.png"
+    }
+]
+}
